@@ -1,0 +1,15 @@
+<!--index.wxml-->
+<view class="container">
+<view class='top'>
+  <button class='round-btn btn-green' bindtap='getLunch' hover-class='active'>创造便当</button>
+</view>
+<view class='bottom'>
+  <text class='text-{{color1}}'>{{item1}}</text>
+  <text class='text-{{color2}}'>{{item2}}</text>
+  <text class='text-{{color3}}'>{{item3}}</text>
+</view>
+<view class=''>
+  <button class='round-btn btn-blue fixed'>添加食材</button>
+</view>
+
+</view>

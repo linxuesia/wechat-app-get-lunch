@@ -46,26 +46,26 @@
   font-size: 30rpx;
 }
 .text-blue{
-  color: #99bbff;
+  color: #5CA4A9;
 }
 .text-pink{
-  color: #ffcccc;
+  color: #E5989B;
 }
 .text-green{
-  color: #b3ffb3;
+  color: #9BC53D;
 }
 .text-yellow{
-  color: #e5e600;
+  color: #FDE74C;
 }
 .text-orange{
-  color: #ffcc80;
+  color: #E76F51;
 }
 .text-grey{
-  color: #ccccb3;
+  color: #6D6875;
 }
 .text-red{
-  color: #ff5c33;
+  color: #ED6A5A;
 }
 .text-caolv{
-  color: #ccff99;
+  color: #9AB87A;
 }
